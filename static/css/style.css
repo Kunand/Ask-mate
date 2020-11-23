@@ -1,0 +1,19 @@
+tr {
+    color: purple;
+}
+table, th, td {
+  border: 1px solid indianred;
+  border-collapse: collapse;
+}
+
+body {
+    background: white url(https://cdn1.vectorstock.com/i/1000x1000/49/15/retro-cinema-video-camera-vector-17074915.jpg) fixed;
+}
+
+div.container {
+    display: flex;
+}
+
+.highlight {
+    background-image: linear-gradient(-100deg, rgba(255, 255, 255, 0), #ffff00 85%, rgba(255, 255, 255, 0));
+}
